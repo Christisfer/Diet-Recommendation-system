@@ -1,0 +1,56 @@
+Food List,cat.,Portion (g),Calories,Carbohydrates (g),Protein (g),Total Fat (g)
+Chicken Curry,1,200,264,9,22.8,15.2
+Chicken Korma,1,200,332,10.6,26,20.6
+Tandoori Chicken Breast,1,100,700,~,~,~
+Aloo Ghost Kari (Goat),1,100,600,~,~,~
+Rogan Josh,1,100,500,~,~,30
+Pork Vindaloo Curry,1,620,~,~,~,35
+Aloo Baigan Mixed Vegetable,2,200,206,64.6,2.6,9.4
+Aloo Beans Mixed Vegetable,2,200,268,68.6,4.8,17.4
+Aloo Curry,2,200,210,28.8,2.4,10
+Baigan ka Bharta,2,200,140,11.4,2.4,9.4
+Bhindi (Okra),2,200,322,24.2,7.8,21.4
+Chole (Chickpeas),2,200,148,6.6,8.6,8.2
+Gatte ki Subji,2,148,275,~,~,~
+Methi Aloo,2,200,121,16,2.2,5.4
+Mutter Paneer,2,200,147,10.7,8.5,8.1
+Rajma (Kidney beans),2,200,102,10.7,4.7,3.4
+Shahi Paneer,2,95,263,~,~,~
+Shimla Mirch Aloo,2,100,93,12.8,1.5,3.4
+Stuffed Tomato,2,100,85,11,2.1,3.4
+Vegetable Jalfrazi,2,98,159,~,~,~
+Vegetable Kofta Curry,2,100,147,13.3,2.6,9.1
+Vegetable Korma,2,100,88,8.7,1.4,5.3
+Arhar dal,3,200,106,16,5.6,2.4
+Chana dal,3,200,198,25.6,9,12.8
+Dal Makhani,3,200,234,28,9,2.6
+Maa ki Dal,3,200,184,~,~,~
+Moong dal,3,200,422,62.6,25.6,7.4
+Masoor dal,3,200,330,49.4,20.6,5.4
+Urad dal,3,200,214,14,12,6
+Sambhar,3,200,10,5.2,60,3.6
+Dal Dhokli,3,105,476,~,~,~
+Boiled Rice,4,100,111,25,2.2,0.2
+Pulao,4,100,119,19,3.2,3.4
+Khichadi,4,100,215,33,4.3,7.4
+Milk (Cow),5,100,67,4.4,3.2,4.1
+Milk (Buffalo),5,100,117,5,4.3,6.5
+Yogurt,5,100,60,3,3.1,4
+Buttermilk,5,100,15,0.5,0.8,1.1
+Paneer (Cow’s milk),5,100,265,1.2,18.3,20.8
+Paneer (Buffalo’s milk),5,100,292,7.9,13.4,23
+Lassi,5,100,69,3.2,5.7,0.5
+Samosa,6,100,252,48.1,6.3,17.6
+Poppadums,6,100,408,39.3,21,18.6
+Aloo Tikki,6,100,101,11.8,1.8,5.2
+Pakoda Onion,6,58,315,~,~,~
+Pakoda Paneer,6,125,376,~,~,~
+Wheat chapatti(1),7,1,70,15,3,0.4
+Brown bread(1),7,1,104,56,13,4.3
+Paratha(1),7,1,126,62,10,6
+Wheat chapatti(2),7,2,140,30,6,0.8
+Brown bread(2),7,2,208,112,26,8.6
+Paratha(2),7,2,252,124,20,12
+Wheat chapatti(3),7,3,210,45,9,1.2
+Brown bread(3),7,3,312,168,39,12.9
+Paratha(3),7,3,378,186,30,18
